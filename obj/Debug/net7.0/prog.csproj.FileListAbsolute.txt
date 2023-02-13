@@ -1,0 +1,15 @@
+C:\Users\Marek\Documents\prog\bin\Debug\net7.0\prog.exe
+C:\Users\Marek\Documents\prog\bin\Debug\net7.0\prog.deps.json
+C:\Users\Marek\Documents\prog\bin\Debug\net7.0\prog.runtimeconfig.json
+C:\Users\Marek\Documents\prog\bin\Debug\net7.0\prog.dll
+C:\Users\Marek\Documents\prog\bin\Debug\net7.0\prog.pdb
+C:\Users\Marek\Documents\prog\obj\Debug\net7.0\prog.csproj.AssemblyReference.cache
+C:\Users\Marek\Documents\prog\obj\Debug\net7.0\prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marek\Documents\prog\obj\Debug\net7.0\prog.AssemblyInfoInputs.cache
+C:\Users\Marek\Documents\prog\obj\Debug\net7.0\prog.AssemblyInfo.cs
+C:\Users\Marek\Documents\prog\obj\Debug\net7.0\prog.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Documents\prog\obj\Debug\net7.0\prog.dll
+C:\Users\Marek\Documents\prog\obj\Debug\net7.0\refint\prog.dll
+C:\Users\Marek\Documents\prog\obj\Debug\net7.0\prog.pdb
+C:\Users\Marek\Documents\prog\obj\Debug\net7.0\prog.genruntimeconfig.cache
+C:\Users\Marek\Documents\prog\obj\Debug\net7.0\ref\prog.dll
