@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marek\\Documents\\prog\\prog.csproj": {}
+    "D:\\studia\\C#\\test\\studia\\prog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marek\\Documents\\prog\\prog.csproj": {
+    "D:\\studia\\C#\\test\\studia\\prog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marek\\Documents\\prog\\prog.csproj",
+        "projectUniqueName": "D:\\studia\\C#\\test\\studia\\prog.csproj",
         "projectName": "prog",
-        "projectPath": "C:\\Users\\Marek\\Documents\\prog\\prog.csproj",
-        "packagesPath": "C:\\Users\\Marek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marek\\Documents\\prog\\obj\\",
+        "projectPath": "D:\\studia\\C#\\test\\studia\\prog.csproj",
+        "packagesPath": "C:\\Users\\Magu\\.nuget\\packages\\",
+        "outputPath": "D:\\studia\\C#\\test\\studia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Marek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Magu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

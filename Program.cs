@@ -1,4 +1,4 @@
-﻿namespace PROG
+﻿namespace Studia
 {
     class  Program
     {
@@ -21,7 +21,8 @@
                 Console.WriteLine ("Użytkowniku, podaj swój typ: ");
                 wyborGraczString = Console.ReadLine();
                 Console.WriteLine ($"Wybór komputera to: {tabela[wyborKomp]}");
-                if (!Int32.TryParse (wyborGraczString, out wyborGracz))
+                Int32.TryParse (wyborGraczString, out wyborGracz);
+                if (wyborGracz!=1 && wyborGracz!=2 && wyborGracz!=3)
                 {
                     Console.WriteLine ("Powtórz, wprowadzono nieprawidłową liczbę");
                     i--;
